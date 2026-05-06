@@ -10,3 +10,5 @@ Pueden hacer lo que quieran...
 para poder hacer el pull request
 
 #hola mundo
+
+#provocando conflictos desde remoto
