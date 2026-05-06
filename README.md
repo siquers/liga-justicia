@@ -11,4 +11,4 @@ para poder hacer el pull request
 
 #hola mundo
 
-#Conflictos enmendados desde el rebase
+#Conflictos enmendados desde el rebase, pero hago prueba quitando el pull.ff only
