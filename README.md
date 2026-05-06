@@ -11,4 +11,4 @@ para poder hacer el pull request
 
 #hola mundo
 
-#provocando conflictos desde remoto
+#Conflictos enmendados desde el rebase
