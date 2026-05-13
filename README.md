@@ -14,3 +14,5 @@ para poder hacer el pull request
 # Conflictos enmendados desde el rebase, pero hago prueba quitando el pull.ff only de la cofiguracion global y si funcionó
 
 # Practica del fork entre mis 2 cuentas
+
+## Practica Fork usando pura consola
